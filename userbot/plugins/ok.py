@@ -32,11 +32,14 @@ async def _(event):
             "OK LOL",
             "YAA OK",
             "FCUK",
+            "so cute",
             "OK",
             "Boss",
             "Yeahhhhhh",
             "O",
             "K",
+            "KingBot",
+            "kingsishere",
             "Ok Boss! 😇"
         ]
 
