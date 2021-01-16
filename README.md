@@ -6,5 +6,5 @@
    <br>
    <br>
 </p>
-<h1>PIKACHU-BOT</h1>
+<h1>KING-BOT</h1>
 <b>A GOOD AND OP USER BOT FOR TELETHON</b>
