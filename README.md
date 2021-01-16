@@ -1,5 +1,5 @@
 #kingbot
-<h3 align="center"><b>Owner <a href="https://telegram.dog/poison00777">MR.PERFECT</a></b></h3>
+<h3 align="center"><b>Owner <a href="https://telegram.dog/Kartikraj">Hitman|Kartik</a></b></h3>
 <br>
 <p align="center">
    <a href="http://gitHub.com/srinivasop/PIKACHU-BOT"><img src="https://telegra.ph/file/.jpg" alt="king_bot" width=400px></a>
